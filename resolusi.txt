@@ -2,3 +2,6 @@ resolusi saya
 * Menentukan target spesifik dan jelas untuk keahlian yang ingin dikuasai.
 * Mendaftar di kursus online atau program pembelajaran yang terstruktur.
 * Mempelajari dasar-dasar HTML, CSS, dan JavaScript.
+* Membuat proyek-proyek kecil untuk menerapkan pengetahuan yang telah dipelajari.
+* Menguasai kerangka kerja front-end seperti React atau Angular.
+* Mengembangkan pemahaman yang kuat tentang teknologi back-end seperti Node.js atau Python.
